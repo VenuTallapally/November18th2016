@@ -47,7 +47,7 @@
     <Compile Include="Transactions\BalanceEnquiry.cs" />
     <Compile Include="Accounts\ClosedAccount.cs" />
     <Compile Include="ConcreteAccountFactory.cs" />
-    <Compile Include="ConcreteOperationsFactory.cs" />
+    <Compile Include="ConcreteTransactionFactory.cs" />
     <Compile Include="Transactions\Deposit.cs" />
     <Compile Include="interfaces\IAccount.cs" />
     <Compile Include="Accounts\InOperativeAccount.cs" />
